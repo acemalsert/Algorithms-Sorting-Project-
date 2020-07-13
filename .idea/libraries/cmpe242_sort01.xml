@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cmpe242-sort01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/cmpe242-sort01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
