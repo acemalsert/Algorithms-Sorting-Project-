@@ -6,9 +6,9 @@ import java.io.FileNotFoundException;
 public class SortingAlgortihmTester {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		Person[] persons = new Person[] { new Person("Ahmet Cemal ", "Sert", 43999263780L),
-				new Person("Harleen", "Quinzell", 12345263780L), new Person("Pamela Lilian", "Isley", 43999261616L),
-				new Person("Bruce", "Wayne", 000000000L), new Person("Roy ", "Trenneman", 439123450L),
+		Person[] persons = new Person[] { new Person("Ahmet Cemal ", "Sert", 54886268630L),
+				new Person("Harleen", "Quinzell", 12345263780L), new Person("Pamela Lilian", "Isley", 13989261616L),
+				new Person("Bruce", "Wayne", 000000000L), new Person("Roy ", "Trenneman", 499123450L),
 				new Person(" Maurice", "Moss", 43999456660L), new Person(" Jen", "Barber", 14781263780L),
 				new Person("Douglas", "Reynholm", 76198263780L), new Person("Denholm", "Reynholm", 93362263990L),
 				new Person(" Richmond", "Avenal", 53814263740L)
