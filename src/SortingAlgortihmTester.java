@@ -15,9 +15,9 @@ public class SortingAlgortihmTester {
 				};
 
 		int testDataRandom1K[] = Algorithms
-				.readFiles("C:\\Users\\ACS\\Desktop\\Ahmet Cemal Sert CMPE242 HW2 43999263780random 1k numbers.txt");
+				.readFiles("C:\\Users\\ACS\\Desktop\\Ahmet Cemal Sert CMPE242 HW2 random 1k numbers.txt");
 		int testDataRandom10K[] = Algorithms
-				.readFiles("C:\\Users\\ACS\\Desktop\\Ahmet Cemal Sert CMPE242 HW2 43999263780 random 10k numbers.txt");
+				.readFiles("C:\\Users\\ACS\\Desktop\\Ahmet Cemal Sert CMPE242 HW2 random 10k numbers.txt");
 
 
 		for (Person p : persons) {
