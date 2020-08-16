@@ -111,7 +111,7 @@ public class Algorithms {
                 }
     }
 
-  //kodu düzenle
+    
     public static void SelectionSort(int arr[])
     {
         int N = arr.length;
